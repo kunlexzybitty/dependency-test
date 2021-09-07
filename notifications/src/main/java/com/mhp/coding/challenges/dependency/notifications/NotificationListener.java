@@ -1,6 +1,5 @@
 package com.mhp.coding.challenges.dependency.notifications;
 
-import com.mhp.coding.challenges.dependency.inquiry.Inquiry;
 import com.mhp.coding.challenges.dependency.inquiry.InquiryNotification;
 import com.mhp.coding.challenges.dependency.inquiry.InquiryNotificationType;
 import org.springframework.beans.factory.annotation.Autowired;
